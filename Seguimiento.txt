@@ -1,0 +1,7 @@
+Capitalismo colaborativo. 
+Crear aplicacion de CC de lavandería.
+Vistazo pasos a seguir:
+-Definir stack (probablemente MEAN)
+-Definir estructura usuario: -cliente -freelancer
+-Definir interrelacion 
+-Construccion de interfaz de usuario.
